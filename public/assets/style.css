@@ -1,0 +1,14 @@
+body{
+	font-family: 'Trebuchet MS', sans-serif;
+}
+
+.SubTitle_Font{
+	margin-top:-1vw;
+	margin-bottom:1vw;
+}
+
+.principal_Title{
+	margin:20px;
+	text-align:center;
+	background-color:rgb(223, 223, 223);
+}
