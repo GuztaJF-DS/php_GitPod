@@ -10,15 +10,14 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
 	<title>Sistemas Operacionais:Windows</title>
 </head>
-<body style="background: rgb(165,27,11);
-background: linear-gradient(180deg, rgba(165,27,11,1) 0%, rgba(98,12,3,1) 100%);">
+<body style="background: rgb(48, 155, 209);
+background: linear-gradient(180deg, rgba(48, 155, 209,1) 0%, rgba(8, 83, 158,1) 100%);">
 	<div class="principal_Title">
 		<h1 class="Title_Font">Sistemas Operacionais</h1>
 		<h5 class="SubTitle_Font">Windows</h5>
 	</div>
 	<div class="Links">
-		<a class="Link" href="">Linux</a>
-		<a class="Link" href="">Mac Os</a>
+		Bem Vindo
 	</div>
 	<div class="Pages">
 		<div class="col-md-9 col-sm-5 Page_info"><h2>Windows 1</h2>O Windows 1.0 foi onde tudo começou, lançado em 1985. Até sua chegada, os sistemas operacionais funcionavam apenas em modo texto e este foi o primeiro a oferecer uma interface gráfica em cima do modo texto (MS-DOS) de maneira que qualquer pessoa pudesse interagir com o sistema sem precisar digitar comandos no terminal. Para os padrões de hoje ele pode parecer feio, simples e antiquado, mas saiba que foi extremamente importante por introduzir ao mundo conceitos que hoje são completamente normais como menus que caem ao serem clicados, a utilização de uma seta para apontar e clicar em elementos, barras de rolagem e as janelas.</div>
@@ -36,6 +35,9 @@ background: linear-gradient(180deg, rgba(165,27,11,1) 0%, rgba(98,12,3,1) 100%);
 	<div class="Pages">
 		<div class="col-md-5 col-sm-10 Page_info"><h2>Windows 7</h2>Após o fracasso do Windows Vista, a empresa lançou o Windows 7, que veio para salvar a pátria. Depois do XP, o 7 foi o sistema da "zona de conforto" dos usuários, já que oferecia um visual bem agradável e desempenho e confiabilidade nos mesmos níveis do Windows XP. Com o encerramento do suporte à versão antiga, o Windows 7 passou a ser o sistema operacional mais utilizado do mundo e atualmente conta com pouco mais de 60% de participação no mercado. </div>
 		<div class="col-md-5 col-sm-10 Page_info"><h2>Windows 8</h2>Tudo ia bem com o Windows 7, mas, em 2012, a Microsoft colocou os pés pelas mãos em uma aposta que não deu muito certo: eliminou o Menu Iniciar e empurrou goela abaixo dos usuários os "Live Tiles", quadrados vivos que continham programas e exibiam informações relevantes em tempo real, em uma interface voltada para dispositivos com tela sensível ao toque.O problema é que quase ninguém possui uma tela do tipo e a maioria já está acostumada a trabalhar bem com os bons e velhos teclado e mouse. Além disso, a falta do Menu Iniciar deixou muita gente perdida, o que contribuiu para a alta taxa de adoção do Windows 7. Resultado: o Windows 8 foi um fiasco.</div>
+	</div>
+    <div class="Pages">
+		<div class="col-10 Page_info"><h2>Windows 10</h2>O Windows 10 chegou  como a promessa da Microsoft para introduzir aos usuários o sistema operacional do futuro. Com ele, a empresa não apenas resolveu os problemas do Windows 8, mas criou uma nova rotina de atualizações e distribuições. Apresentado para ser o "Windows defintiivo", essa versão ganha novidades semestralmente e vem se tornando cada vez mais robusta.</div>
 	</div>
 
 </body>
